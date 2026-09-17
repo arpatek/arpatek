@@ -47,22 +47,21 @@ SKILLS
        Tools           Git, Vim, tmux, SSH, Nginx
 
 PROJECTS
-       factory-config-qc Manufacturing QC automation — batch BIOS config and
-                        hardware validation via IPMI/Redfish (archived)
-       home.arpa        Self-hosted homelab — IaC, monitoring, identity,
-                        DNS, VPN, and container orchestration
-       arpa-iac         Ansible-enforced state for the homelab
-       arpatek.dev      FastAPI portfolio — ASCII for curl, TUI for browser
-       dotfiles         Cross-platform Zsh, tmux, Neovim, Git, SSH
-       devkit           Data-driven TUI launcher for homelab ops
-       terraform-xo     XCP-ng VM provisioning via Terraform + XO API
-       ansible-baseline Post-provisioning automation for Debian VMs
-       puppet-modules   Puppet module collection for homelab VM hardening
-       snaputil         Modular system snapshot tool
-       citadel          Pattern-based password generator
-       portal-22        SSH key & config generator from YAML
-       cloudflare-ddns  Bash + systemd dynamic DNS updater
-
+       factory-config-qc   Manufacturing QC automation — batch BIOS config
+                           and hardware validation via IPMI/Redfish (archived)
+       home.arpa           Self-hosted homelab — IaC, monitoring, identity,
+                           DNS, VPN, and container orchestration
+       arpa-iac            Ansible-enforced state for the homelab
+       arpatek.dev         FastAPI portfolio — ASCII for curl, TUI for browser
+       dotfiles            Cross-platform Zsh, tmux, Neovim, Git, SSH
+       devkit              Data-driven TUI launcher for homelab ops
+       terraform-xo        XCP-ng VM provisioning via Terraform + XO API
+       ansible-baseline    Post-provisioning automation for Debian VMs
+       puppet-modules      Puppet module collection for homelab VM hardening
+       snaputil            Modular system snapshot tool
+       citadel             Pattern-based password generator
+       portal-22           SSH key & config generator from YAML
+       cloudflare-ddns     Bash + systemd dynamic DNS updater
 EDUCATION
        Red Hat Certified System Administrator          In Progress
        Google IT Automation with Python Professional   Completed
